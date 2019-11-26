@@ -1,4 +1,4 @@
 # JFXslidedlogin
-![](https://github.com/atomms/JFXslidedlogin/blob/master/Slided%20Login/slidedlogin.png)
+![](marguerite-729510_1920.jpg)
 
 Fichero de control de versiones entre un grupo
